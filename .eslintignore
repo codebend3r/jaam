@@ -1,0 +1,15 @@
+# /node_modules/* ignored by default
+
+_/**
+*gulpfile*
+*webpack*.js
+config/admin.properties.js
+coverage/**
+features/**
+jsdoc
+plugins/**
+plugins/youtube/render.js
+resources/scripts/build/**
+resources/scripts/src/vendor/**/*.js
+resources/scripts/test/**
+resources/service-workers/**

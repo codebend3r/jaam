@@ -1,0 +1,16 @@
+{
+  "statements": 50,
+  "branches": 35,
+  "functions": 40,
+  "lines": 50,
+  "exclude": [
+    "node_modules",
+    "resources/scripts/build",
+    "resources/scripts/src/**/*_test.js",
+    "resources/scripts/test/**/*_test.js",
+    "resources/scripts/test/helpers",
+    "resources/scripts/test/fixtures",
+    "resources/scripts/vendor"
+  ],
+  "cache": true
+}
