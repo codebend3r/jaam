@@ -2,7 +2,7 @@
   "name": "jaam",
   "version": "1.0.0",
   "description": "utility functions shared between libraries",
-  "main": "index.js",
+  "main": "js/**",
   "npmName": "jaam",
   "scripts": {
     "test": "ava",
