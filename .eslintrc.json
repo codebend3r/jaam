@@ -5,19 +5,7 @@
     "es6": true
   },
   "extends": "idiomatic",
-  "globals": {
-    "DocumentTouch": false,
-    "googletag": true,
-    "analyticsLayer": true,
-    "tp": true,
-    "_dw": true,
-    "browser": true,
-    "expect": true,
-    "athena": true,
-    "process": true,
-    "Krux": true,
-    "s": true
-  },
+  "globals": {},
   "rules": {
     "array-bracket-spacing": [2, "never"],
     "camelcase": [1, {
