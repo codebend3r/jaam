@@ -2,7 +2,6 @@
   "name": "jaam",
   "version": "1.0.1",
   "description": "utility functions shared between libraries",
-  "main": "js/**",
   "npmName": "jaam",
   "scripts": {
     "test": "ava",
@@ -19,6 +18,9 @@
   "keywords": [
     "utility",
     "helper"
+  ],
+  "files": [
+    "js"
   ],
   "author": "Chester Rivas",
   "license": "ISC",
